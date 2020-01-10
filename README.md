@@ -1,2 +1,2 @@
 # julUppgift
- the christmas tingi
+ Den här uppgiften var mycket svårare en vad jag hade trot, eftersom jag inte förstod vad ejs var för nåt. eftersom jag använde VS code så lärde jag mig att man kan ändra på sinna settings med kod i USER SETTINGS vilket var en lärorik upplevese. jag har INTE gjort klart uppgiften på det sättet som min lärare ville. Utan jag har varit så dum att jag inte jobba under jul lovet, men pågrund av det så är jag utvillad och redo för att lära mig och ge mitt bästa.
